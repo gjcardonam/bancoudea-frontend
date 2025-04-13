@@ -1,0 +1,5 @@
+/* puedes dejarlo vacío por ahora o meter estilos globales si usas Tailwind, por ejemplo: */
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+}
